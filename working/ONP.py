@@ -39,6 +39,6 @@ def onp():
             s.push(result)
 
     print(s.peek()) 
-
+# write translator form classic (e.g. (5 * 3) + (5/2) to ONP
 if __name__ ==  "__main__":
     onp()

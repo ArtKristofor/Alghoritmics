@@ -24,5 +24,5 @@ def odmiana(a, b):
 
 
 if __name__ == "__main__":
-    print(zamiana(124534, 7))
-    print(odmiana(1026034, 7))
+    print(zamiana(99999, 7))
+    print(odmiana(zamiana(99999,7), 7))
