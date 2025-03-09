@@ -12,3 +12,4 @@ def LCG(a,p,m):
     print(random.choice(losowe))
 if __name__ == "__main__":
     LCG(17,7,12)
+    LCG(22,15,19)
